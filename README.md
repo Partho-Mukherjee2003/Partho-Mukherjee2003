@@ -20,8 +20,8 @@ I am a Computer Science and Engineering (CSE) student at ISTT, passionate about 
 - Fundamentals of Artificial Intelligence and Machine Learning models.
 
 ### 📫 Let's Connect!
-*(এখানে তুমি তোমার LinkedIn বা Portfolio ওয়েবসাইটের লিংক দিতে পারো)*
-- LinkedIn: [Your LinkedIn Profile Link]
-- Email: [Your Professional Email]
+
+- LinkedIn: in/partho-mukherjee-0012b421b
+- Email: prthomukherjee582@gmail.com
 
 > *"Striving to write clean code, solve complex problems, and build products that matter."*
