@@ -71,10 +71,9 @@ I am a dedicated **Computer Science and Engineering (CSE)** student with a stron
 
 ---
 ### 📊 GitHub Statistics
-
-![Partho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Partho-Mukherjee2003&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Partho-Mukherjee2003&layout=compact&theme=tokyonight)
+[![Partho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Partho-Mukherjee2003&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Partho-Mukherjee2003&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Partho-Mukherjee2003&theme=radical)](https://git.io/streak-stats)
 ---
 
 <p align="center">
