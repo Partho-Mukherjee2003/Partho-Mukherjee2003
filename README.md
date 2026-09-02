@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github_banner_v2.png" alt="Partho Mukherjee GitHub Banner">
+  <img src="Code_Generated_Image.png" alt="Partho Mukherjee GitHub Banner">
 </p>
 
 # Hi there, I'm Partho Mukherjee! 👋
