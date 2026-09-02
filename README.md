@@ -70,14 +70,12 @@ I am a dedicated **Computer Science and Engineering (CSE)** student with a stron
 </p>
 
 ---
-
 ### 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Partho-Mukherjee2003&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Partho-Mukherjee2003&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
+</div>
 ---
 
 <p align="center">
