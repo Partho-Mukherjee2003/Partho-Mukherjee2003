@@ -21,7 +21,7 @@ I am a Computer Science and Engineering (CSE) student at ISTT, passionate about 
 
 ### 📫 Let's Connect!
 
-- LinkedIn: in/partho-mukherjee-0012b421b
+- LinkedIn: www.linkedin.com/in/partho-mukherjee-0012b421b
 - Email: prthomukherjee582@gmail.com
 
 > *"Striving to write clean code, solve complex problems, and build products that matter."*
