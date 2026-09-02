@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="github_banner_v2.png" alt="Partho Mukherjee GitHub Banner">
+</p>
+
 # Hi there, I'm Partho Mukherjee! 👋
 
 I am a Computer Science and Engineering (CSE) student at ISTT, passionate about building scalable web applications and exploring the fascinating world of Artificial Intelligence. My ultimate goal is to become a proficient Software and AI Engineer while continuously evolving as a strong problem solver.
