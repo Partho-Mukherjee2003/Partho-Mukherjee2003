@@ -62,14 +62,14 @@ I am a **Computer Science & Engineering undergraduate at ISTT, Mirpur-13, Dhaka*
 
 ## GitHub statistics
 
-These cards use my exact GitHub username and display public GitHub activity. They are generated dynamically by the linked services.
+These cards use my exact GitHub username and display public GitHub activity through verified dynamic endpoints.
 
 <p align="center">
   <a href="https://github.com/Partho-Mukherjee2003">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Partho-Mukherjee2003&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=transparent&rank_icon=github&cache_seconds=86400" alt="Partho's GitHub statistics" />
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Partho-Mukherjee2003&theme=github_dark" alt="Partho's GitHub statistics" />
   </a>
   <a href="https://github.com/Partho-Mukherjee2003">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Partho-Mukherjee2003&layout=compact&langs_count=8&hide_border=true&theme=transparent&cache_seconds=86400" alt="Partho's most-used languages" />
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Partho-Mukherjee2003&theme=github_dark" alt="Partho's most-used languages" />
   </a>
 </p>
 
