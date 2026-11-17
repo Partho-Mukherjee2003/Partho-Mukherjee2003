@@ -79,6 +79,19 @@ These cards use my exact GitHub username and display public GitHub activity thro
   </a>
 </p>
 
+## Contribution activity
+
+My contribution graph is transformed into an animated snake so you can see my activity move across the calendar. The animation is refreshed automatically every day by the repository workflow.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Partho-Mukherjee2003/Partho-Mukherjee2003/gh-pages/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Partho-Mukherjee2003/Partho-Mukherjee2003/gh-pages/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Partho-Mukherjee2003/Partho-Mukherjee2003/gh-pages/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
+  </picture>
+</p>
+
+> Contributions are generated from my public GitHub activity. The animation is maintained by [`.github/workflows/snake.yml`](https://github.com/Partho-Mukherjee2003/Partho-Mukherjee2003/blob/main/.github/workflows/snake.yml).
 ## Connect with me
 
 | Platform | Contact |
