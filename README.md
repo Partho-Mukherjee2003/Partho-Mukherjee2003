@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="githubProfile.png" alt="Partho Mukherjee - Full Stack Web Developer (MERN)" width="100%">
+  <img src="github-readme-hero-partho.png" alt="Partho Mukherjee - Full Stack Web Developer (MERN)" width="100%">
 </p>
 
 <!-- Animated intro line -->
