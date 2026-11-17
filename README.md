@@ -1,153 +1,95 @@
 <p align="center">
-  <img src="github-readme-hero-partho.png" alt="Partho Mukherjee - Full Stack Web Developer (MERN)" width="100%">
-</p>
-
-<!-- Animated intro line -->
-<p align="center">
-  <a href="https://github.com/Partho-Mukherjee2003">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Partho+Mukherjee;Full+Stack+Web+Developer+(MERN);CS+Undergraduate+%40+ISTT+%7C+Problem+Solver;Building+Modern+Web+Apps+%E2%80%A2+Learning+AI+%26+ML" alt="Typing animation: Hi, I'm Partho Mukherjee, Full Stack Web Developer (MERN)" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Partho-Mukherjee2003/Partho-Mukherjee2003/main/github-readme-hero-partho.png" alt="Partho Mukherjee - Full-Stack Web Developer" width="100%" />
 </p>
 
 <p align="center">
-  <b>Full Stack Web Developer (MERN) | CS Undergraduate @ ISTT | Problem Solver</b><br>
-  <i>Striving to write clean code, solve complex problems, and build impactful software.</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Partho+Mukherjee+%F0%9F%91%8B;Full-Stack+Web+Developer+%7C+MERN+Stack;Computer+Science+%26+Engineering+Student;Building+modern+web+apps+and+learning+AI%2FML" alt="Animated introduction" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/partho-mukherjee-0012b421b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://my-portfolio-website-orpin-eight.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:parthomukherjee582@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://wa.me/8801778827812" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://www.facebook.com/partho.mukherjee.144" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://x.com/Partho_M_2005" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
+  <a href="https://github.com/Partho-Mukherjee2003"><img src="https://img.shields.io/badge/GitHub-Partho--Mukherjee2003-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/partho-mukherjee-0012b421b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://my-portfolio-website-orpin-eight.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
----
+## About me
 
-### 👨‍💻 About Me
+I am a **Computer Science & Engineering undergraduate at ISTT, Mirpur-13, Dhaka**, focused on full-stack web development and practical software engineering. I enjoy turning ideas into clean, responsive, and maintainable products while strengthening my foundation in data structures, algorithms, and problem solving.
 
-I am a dedicated **Computer Science & Engineering (CSE)** student with a strong passion for building modern web applications and exploring Artificial Intelligence. I focus on writing clean, scalable code and continuously strengthening my core foundation in **Data Structures & Algorithms**.
+- 💻 Building full-stack applications with the **MERN ecosystem and Next.js**
+- 🧠 Practicing **DSA, problem solving, AI, and machine learning fundamentals**
+- 🔐 Learning secure authentication and role-based application architecture
+- 🤝 Open to collaboration on meaningful web, AI, and developer-tool projects
+- 📍 Based in Dhaka, Bangladesh
 
-- 🎓 Pursuing B.Sc. in **Computer Science & Engineering** at **ISTT, Mirpur-13, Dhaka**.
-- 🚀 Deepening my knowledge in **Full-Stack Web Development** — MERN Stack & Next.js.
-- 🧠 Actively practicing **DSA & Problem Solving** in C++ and Python to sharpen my analytical thinking.
-- 🤖 Exploring the fundamentals of **AI & Machine Learning**.
-- 🎯 Goal: Evolving into a full-fledged **Software & AI Engineer**.
+## Tech stack
 
----
+### Languages
 
-### 🛠️ Tech Stack & Tools
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-#### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+### Frontend
 
-#### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-1AD1A5?style=flat-square&logo=daisyui&logoColor=white)
 
-#### ⚙️ Backend & Databases — MERN
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge&logo=auth0&logoColor=white" alt="Better Auth" />
-</p>
+### Backend, databases & tools
 
-#### 🧠 Core Skills
-<p>
-  <img src="https://img.shields.io/badge/Data_Structures-7C3AED?style=for-the-badge" alt="Data Structures" />
-  <img src="https://img.shields.io/badge/Algorithms-7C3AED?style=for-the-badge" alt="Algorithms" />
-  <img src="https://img.shields.io/badge/Problem_Solving-2563EB?style=for-the-badge" alt="Problem Solving" />
-  <img src="https://img.shields.io/badge/AI%2FML-8B5CF6?style=for-the-badge" alt="AI / ML" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Better Auth](https://img.shields.io/badge/Better_Auth-111827?style=flat-square&logo=auth0&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-#### 🧰 Tools & Version Control
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
+## Featured projects
 
----
+| Project | Description | Repository |
+| --- | --- | --- |
+| **HireLoop** | Recruitment platform with recruiter and job-seeker workflows, authentication, and dashboards. | [Client](https://github.com/Partho-Mukherjee2003/hireloop-client) · [Server](https://github.com/Partho-Mukherjee2003/hireloop-server) |
+| **BookNook** | Full-stack online library for browsing, adding, borrowing, and returning books. | [Client](https://github.com/Partho-Mukherjee2003/book-nook-client-site) · [Server](https://github.com/Partho-Mukherjee2003/book-nook-server-site) |
+| **My FitLog** | Dark, responsive workout planner and progress-tracking application. | [View repository](https://github.com/Partho-Mukherjee2003/my-fit-log-app) |
+| **BazarDor** | Bangladesh market-price application for everyday essentials with clear price-change indicators. | [View repository](https://github.com/Partho-Mukherjee2003/my-bazar-dor-app) |
+| **My Dev Stack** | Interactive React and TypeScript app for exploring and customizing a developer stack. | [View repository](https://github.com/Partho-Mukherjee2003/my-dev-stack-react) |
 
-### 🚀 Featured Projects
+## GitHub statistics
 
-#### 📚 BookNook — Full-Stack Online Library Management App
-A full-stack library app to discover, add, and borrow books, with login and personal collections.
-- **Tech:** Next.js, TypeScript, React, Express.js, MongoDB Atlas, Better Auth
-- **Features:** New Arrivals, All Books, Book Details, Add Book, My Books, My Borrows, Login / Register, Profile
-
-#### 🏋️ FitLog — Workout Tracking App
-A workout app to plan and track training, with saved plans and progress views.
-- **Tech:** Next.js, TypeScript, Tailwind CSS, DaisyUI
-- **Features:** Workouts, My Plan, Plan & Saved counters
-
-> More projects are on my [portfolio](https://my-portfolio-website-orpin-eight.vercel.app/) and in my pinned repositories below.
-
----
-
-### 📊 GitHub Statistics
+These cards use my exact GitHub username and display public GitHub activity. They are generated dynamically by the linked services.
 
 <p align="center">
   <a href="https://github.com/Partho-Mukherjee2003">
-    <img src="https://github-readme-stats.vercel.app/api?username=Partho-Mukherjee2003&show_icons=true&theme=radical" alt="Partho's GitHub stats" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Partho-Mukherjee2003&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=transparent&rank_icon=github&cache_seconds=86400" alt="Partho's GitHub statistics" />
   </a>
   <a href="https://github.com/Partho-Mukherjee2003">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Partho-Mukherjee2003&layout=compact&theme=radical" alt="Top languages" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Partho-Mukherjee2003&layout=compact&langs_count=8&hide_border=true&theme=transparent&cache_seconds=86400" alt="Partho's most-used languages" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Partho-Mukherjee2003">
-    <img src="https://streak-stats.demolab.com/?user=Partho-Mukherjee2003&theme=radical" alt="GitHub streak" />
+    <img src="https://streak-stats.demolab.com?user=Partho-Mukherjee2003&hide_border=true&theme=transparent&cache_seconds=86400" alt="Partho's GitHub contribution streak" />
   </a>
 </p>
 
----
+## Connect with me
 
-### 🤝 Connect With Me
-
-| Platform | Link |
-| :--- | :--- |
-| 💼 LinkedIn | [linkedin.com/in/partho-mukherjee-0012b421b](https://www.linkedin.com/in/partho-mukherjee-0012b421b) |
-| 🌐 Portfolio | [my-portfolio-website-orpin-eight.vercel.app](https://my-portfolio-website-orpin-eight.vercel.app/) |
-| 📧 Email | [parthomukherjee582@gmail.com](mailto:parthomukherjee582@gmail.com) |
-| 💬 WhatsApp | [+880 1778-827812](https://wa.me/8801778827812) |
-| 📘 Facebook | [facebook.com/partho.mukherjee.144](https://www.facebook.com/partho.mukherjee.144) |
-| 𝕏 X / Twitter | [x.com/Partho_M_2005](https://x.com/Partho_M_2005) |
+| Platform | Contact |
+| --- | --- |
+| LinkedIn | [partho-mukherjee-0012b421b](https://www.linkedin.com/in/partho-mukherjee-0012b421b) |
+| Portfolio | [my-portfolio-website-orpin-eight.vercel.app](https://my-portfolio-website-orpin-eight.vercel.app/) |
+| Email | [parthomukherjee582@gmail.com](mailto:parthomukherjee582@gmail.com) |
+| WhatsApp | [+880 1778-827812](https://wa.me/8801778827812) |
+| Facebook | [partho.mukherjee.144](https://www.facebook.com/partho.mukherjee.144) |
+| X / Twitter | [@Partho_M_2005](https://x.com/Partho_M_2005) |
 
 <p align="center">
-  <i>"Striving to write clean code, solve complex problems, and build impactful software."</i>
-</p>
-
----
-<p align="center">
-  Thanks for visiting my profile! 👋
+  <i>Thanks for visiting my profile. Let's build something meaningful together! 🚀</i>
 </p>
