@@ -53,6 +53,7 @@ WedPlan lets customers discover and book wedding services, vendors manage servic
 | Project | Description | Links |
 | --- | --- | --- |
 | **WedPlan** | Role-based wedding-service marketplace with customer, vendor, and admin dashboards, Stripe payments, and secure backend workflows. | [Live](https://wedplan-client-app.vercel.app) · [Client](https://github.com/Partho-Mukherjee2003/wedPlan-client-app) · [Server](https://github.com/Partho-Mukherjee2003/wedplan-server-app) |
+| **Pizza Dot** | Full-stack pizza delivery app with a custom pizza builder, Razorpay checkout, live order tracking, admin inventory management, and low-stock email alerts. | [Live](https://pizzadot-client.vercel.app) · [Repository](https://github.com/Partho-Mukherjee2003/OIBSIP) |
 | **HireLoop** | Recruitment platform for job seekers and recruiters with role-based dashboards and full-stack workflows. | [Client](https://github.com/Partho-Mukherjee2003/hireloop-client) · [Server](https://github.com/Partho-Mukherjee2003/hireloop-server) |
 | **BookNook** | Full-stack online library for browsing, adding, borrowing, and returning books. | [Client](https://github.com/Partho-Mukherjee2003/book-nook-client-site) · [Server](https://github.com/Partho-Mukherjee2003/book-nook-server-site) |
 | **My FitLog** | Responsive workout planning and progress-tracking application. | [Repository](https://github.com/Partho-Mukherjee2003/my-fit-log-app) |
